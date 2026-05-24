@@ -1,6 +1,6 @@
 # Clase Carrito de compras
 class Carrito:
- def __init__(self):
+ def_init_(self):
  self.items = []
- def agregar_producto(self, producto):
+ def agregar_productos(self,producto)
  self.items.append(producto)
